@@ -30,3 +30,6 @@ Technologies Used:
 
 *OUTPUT* 
 
+<img width="1777" height="459" alt="Image" src="https://github.com/user-attachments/assets/142ab524-1e41-4427-807b-59e7be9c33b9" />
+<img width="1452" height="685" alt="Image" src="https://github.com/user-attachments/assets/80f9ffc4-9a6e-44d1-8ac9-cf13411b5192" />
+<img width="1817" height="225" alt="Image" src="https://github.com/user-attachments/assets/9b9d39bf-f214-464b-8e2c-ea1c76368070" />
